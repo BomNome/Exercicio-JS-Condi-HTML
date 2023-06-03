@@ -1,8 +1,13 @@
-#n{
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.para{
     display: flex;
     justify-content: center;
 }
-#nl{
-    display: flex;
-    justify-content: center;
+
+body{
+    background-color: brown;
 }
